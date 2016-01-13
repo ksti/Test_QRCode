@@ -53,7 +53,7 @@
     [scanQRCodeVC.view setFrame:self.view.bounds];
     scanQRCodeVC.fullScreenFlag = YES;
     scanQRCodeVC.scanLineFlag = YES;
-    scanQRCodeVC.strMyQRCode = @"郭军帅❤️白珍.Happy wife,happay Life.I Love my Family!";
+    scanQRCodeVC.strMyQRCode = @"I Love U!";
     scanQRCodeVC.strMyBarCode = @"6925517201877";
     scanQRCodeVC.iconImage = [UIImage imageNamed:@"icon2.jpg"];
     __weak __typeof(scanQRCodeVC)weakscanQRCodeVC = scanQRCodeVC;
